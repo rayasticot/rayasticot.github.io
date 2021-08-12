@@ -1,0 +1,58 @@
+{
+    "panneaux": [
+        {
+            "id1": [
+                {
+                "nom": "Chemin des Crêts",
+                "cos": "46.221877, 6.125436",
+                "affiche": 0
+                }
+            ]
+        },
+        {
+            "id2": [
+                {
+                    "nom": "Rue de Moillebeau",
+                    "cos": "46.221187, 6.129982",
+                    "affiche": 0
+                }
+            ]
+        },
+        {
+            "id3": [
+                {
+                    "nom": "Rue du Vidollet",
+                    "cos": "46.217401, 6.136027",
+                    "affiche": 0
+                }
+            ]
+        },
+        {
+            "id4": [
+                {
+                    "nom": "Avenue BLANC",
+                    "cos": "46.219860, 6.147561",
+                    "affiche": 0
+                }
+            ]
+        },
+        {
+            "id5": [
+                {
+                    "nom": "Avenue BLANC N.2",
+                    "cos": "46.217280, 6.146586",
+                    "affiche": 0
+                }
+            ]
+        },
+        {
+            "id6": [
+                {
+                    "nom": "Rue du Môle",
+                    "cos": "46.212510, 6.148699",
+                    "affiche": 0
+                }
+            ]
+        }
+    ]
+}
