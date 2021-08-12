@@ -8,7 +8,7 @@ L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_toke
     zoomOffset: -1,
     accessToken: 'pk.eyJ1IjoicmF5YXN0aWNvdCIsImEiOiJja3M4cjZqdjkwNmJ1MnBwNDljdmJ4dXJwIn0.AiKORC_gheuM0ThYph6U5w'
 }).addTo(mymap);
-var requestURL = 'https://raw.githubusercontent.com/rayasticot/cauetburgeraffiche/main/options.json?token=AVFXT565YL2FNYSN5IEEWYDBCUIFG'
+var requestURL = 'https://rayasticot.github.io/options.json'
 var request = new XMLHttpRequest();
 request.open('GET', requestURL);
 request.responseType = 'json';
