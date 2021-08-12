@@ -35,6 +35,132 @@
             "cos": 46.212510,
             "cosb": 6.148699,
             "affiche": 0
+        },
+        {
+            "nom": "Place des Alpes",
+            "cos": 46.209279,
+            "cosb": 6.146888,
+            "affiche": 0
+        },
+        {
+            "nom": "Entrée bas du parc des Cropettes",
+            "cos": 46.211493,
+            "cosb": 6.141268,
+            "affiche": 0
+        },
+        {
+            "nom": "Rue de Malatrex",
+            "cos": 46.209184,
+            "cosb": 6.140198,
+            "affiche": 0
+        },
+        {
+            "nom": "Rue de la Servette",
+            "cos": 46.20851,
+            "cosb": 6.14048,
+            "affiche": 0
+        },
+        {
+            "nom": "Avenue WENDT",
+            "cos": 46.21325,
+            "cosb": 6.12915,
+            "affiche": 0
+        },
+        {
+            "nom": "Rue Édouard-ROD",
+            "cos": 46.21278,
+            "cosb": 6.12222,
+            "affiche": 0
+        },
+        {
+            "nom": "Avenue d'Aïre 1",
+            "cos": 46.20787,
+            "cosb": 6.12616,
+            "affiche": 0
+        },
+        {
+            "nom": "Rue De-MILÉANT 6",
+            "cos": 46.205981,
+            "cosb": 6.127372,
+            "affiche": 0
+        },
+        {
+            "nom": "Rue de Saint-Jean",
+            "cos": 46.204346,
+            "cosb": 6.125385,
+            "affiche": 0
+        },
+        {
+            "nom": "Chemin de la Bâtie",
+            "cos": 46.19616,
+            "cosb": 6.12174,
+            "affiche": 0
+        },
+        {
+            "nom": "Rue Hans-WILSDORF 4",
+            "cos": 46.194158,
+            "cosb": 6.134970,
+            "affiche": 0
+        },
+        {
+            "nom": "Boulevard Carl-VOGT 65",
+            "cos": 46.197413,
+            "cosb": 6.136999,
+            "affiche": 0
+        },
+        {
+            "nom": "Rue du Village-Suisse",
+            "cos": 46.199619,
+            "cosb": 6.135120,
+            "affiche": 0
+        },
+        {
+            "nom": "Boulevard de Saint-Georges",
+            "cos": 46.201360,
+            "cosb": 6.135008,
+            "affiche": 0
+        },
+        {
+            "nom": "Rond-point de Plainpalais",
+            "cos": 46.197852,
+            "cosb": 6.143001,
+            "affiche": 0
+        },
+        {
+            "nom": "Place des Augustins",
+            "cos": 46.191576,
+            "cosb": 6.144029,
+            "affiche": 0
+        },
+        {
+            "nom": "Boulevard de la Cluse",
+            "cos": 46.193027,
+            "cosb": 6.147139,
+            "affiche": 0
+        },
+        {
+            "nom": "Boulevard Helvétique",
+            "cos": 46.197920,
+            "cosb": 6.150905,
+            "affiche": 0
+        },
+        {
+            "nom": "Rond-point de Rive",
+            "cos": 46.201633,
+            "cosb": 6.153267,
+            "affiche": 0
+        },
+        {
+            "nom": "Place du Pré-l'Evêque",
+            "cos": 46.202232,
+            "cosb": 6.158765,
+            "affiche": 0
+        },
+        {
+            "nom": "Route de Florissant 51",
+            "cos": 46.194180,
+            "cosb": 6.160053,
+            "affiche": 0
         }
     ]
 }
