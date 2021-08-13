@@ -1,7 +1,7 @@
 {
     "panneaux": [
         {
-            "nom": "Chemin des Crêts",
+            "nom": "<a href="h" class="myButton">Affiche</a>",
             "cosa": 46.221877,
             "cosb": 6.125436,
             "affiche": 0
